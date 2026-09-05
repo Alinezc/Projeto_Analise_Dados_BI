@@ -67,3 +67,5 @@ mysql -u usuario -p nome_do_banco < online_retail_modelagem.sql
 
 O script cria as tabelas na ordem correta de dependência (`cliente` → `produto` → `pedido` → `item_pedido`) e os índices recomendados para consultas analíticas (por cliente, por data, por produto).
 
+Link para baixar o arquivo original https://www.kaggle.com/datasets/ersany/online-retail-dataset?utm_source=chatgpt.com
+
