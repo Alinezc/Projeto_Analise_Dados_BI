@@ -4,7 +4,7 @@ Modelagem relacional (3FN) construída a partir do dataset `Online_Retail.xlsx` 
 
 ## Diagrama entidade-relacionamento
 
-![Diagrama ER](assets/diagrama-er.png)
+![Diagrama ER](assets/Diagrama.png)
 
 ## Estrutura das tabelas
 
